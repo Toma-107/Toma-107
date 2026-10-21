@@ -51,7 +51,7 @@ status    open to learn
     <td align="center" width="34%" valign="top">
       <sub><b>01 · SHIPPED</b></sub><br/>
       <sub>skills i know</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,vscode,figma&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,vscode&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%" valign="top">
       <sub><b>02 · IN PROGRESS</b></sub><br/>
