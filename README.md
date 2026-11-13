@@ -97,8 +97,8 @@ status    open to learn
 ## 04 / activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Toma-107&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toma-107&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Toma-107&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Toma-107&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
